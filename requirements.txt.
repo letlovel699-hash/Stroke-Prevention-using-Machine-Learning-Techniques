@@ -1,6 +1,5 @@
 streamlit
 joblib
+scikit-learn==<version from Colab>
 pandas
 numpy
-scikit-learn
-xgboost
